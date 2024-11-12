@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/4369f014-fca8-44e1-9e7a-bd873956a917
 ## 📦 **Workflow**
  Just go through the notebook to complete this project.
 
- 🚀 Future Work
-Integration with live video streams for real-time crowd monitoring.
-Implementation of more advanced tracking and prediction models.
-Extend functionality to other transportation hubs, such as airports or bus stations.
+ ## 🚀 Future Work
+- Integration with live video streams for real-time crowd monitoring.
+- Implementation of more advanced tracking and prediction models.
+- Extend functionality to other transportation hubs, such as airports or bus stations.
