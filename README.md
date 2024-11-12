@@ -31,8 +31,10 @@ https://github.com/user-attachments/assets/4369f014-fca8-44e1-9e7a-bd873956a917
 
 ---
 
-## 📦 **Installation**
+## 📦 **Workflow**
+ Just go through the notebook to complete this project.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/railway-people-counting.git
+ 🚀 Future Work
+Integration with live video streams for real-time crowd monitoring.
+Implementation of more advanced tracking and prediction models.
+Extend functionality to other transportation hubs, such as airports or bus stations.
